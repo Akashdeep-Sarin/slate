@@ -1,7 +1,7 @@
 # Build files.
-*.js.map
+# *.js.map
 build/
-dist/
+# dist/
 lib/
 
 # Temporary files.
